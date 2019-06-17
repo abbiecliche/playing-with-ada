@@ -8,6 +8,10 @@
 
 You can compile and Ada program by running ```gnatmake program.adb```. This will generate an executable you can run by entering ```./program```.
 
+## Ada Reference Manual
+
+The Ada Reference Manual can be found [here](https://www.adaic.org/resources/add_content/standards/12aarm/html/AA-0-2.html).
+
 ## References
 
 https://www.radford.edu/~nokie/classes/320/fundamentals/fundPgmStruc.html
